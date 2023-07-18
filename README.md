@@ -4,6 +4,28 @@ We aim to make one script be thousands in one. We are growing and we need your h
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Distributor ID
 The most secure way to confirm fake scripts, a "DistID" will be like this "TAG/IDENTIFIER :: Collab_Authnum"
 This feature will soon be able to go to other scripts, and help them with BLATANT copies, although the system is simple.
