@@ -19,6 +19,7 @@ Our features include:
   - More compatible games
   
 ### Banned?
+You may be banned. Here are the reasons...
 ---------------------
 This may be because you are using an invalid or terminated DistID. You can use the script provided officialy here. 
 You may also be banned because of some illegal things you may do. Otherwise, 
