@@ -3,7 +3,7 @@
 ### RLXL
 Welcome, to the ever-growing script hub called rlxl. 
 Our features include:
-----
+---------------------
 
 - Multiple games & scripts.
   - Still growing to this day.
@@ -19,7 +19,7 @@ Our features include:
   - More compatible games
   
 ### Banned?
----------
+---------------------
 This may be because you are using an invalid or terminated DistID. You can use the script provided officialy here. 
 You may also be banned because of some illegal things you may do. Otherwise, 
 It may be a mistake by our team, when you can contact us at
