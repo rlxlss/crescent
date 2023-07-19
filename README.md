@@ -5,8 +5,11 @@ Welcome, to the ever-growing script hub called rlxl.
 Our features include:
 - Multiple games & scripts.
   - Still growing to this day.
+    
 - Great support & contact
+  
 - Auto grab keys
+  
 - Nothing can stop us expanding
   - More scripts
   - More ui expansions
