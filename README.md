@@ -1,8 +1,9 @@
 ![image](https://github.com/FlyingNalas/rlxl/assets/139919935/fd08107e-a504-4fb3-9240-f54b9266e854)
 
-## RLXL
+### RLXL
 Welcome, to the ever-growing script hub called rlxl. 
 Our features include:
+----
 
 - Multiple games & scripts.
   - Still growing to this day.
