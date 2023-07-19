@@ -2,9 +2,13 @@
 
 # One script, more jobs.
 Welcome, to the ever-growing script hub called rlxl. 
-We aim to make one script be thousands in one. We are growing and we need your help.
+We aim to make one script be thousands in one. We are growing and we need your 
+help.
 Please contact us through here:
 RLXL SUPPORT > CONTACT
+
+We hope you have an amazing time here. 
+- test
 
 # Banned?
 This may be because you are using an invalid or terminated DistID. You can use the script provided officialy here. 
