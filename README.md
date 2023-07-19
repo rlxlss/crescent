@@ -9,10 +9,10 @@ Our features include:
 - Auto grab keys
   - Contact us if its changed
 - Nothing can stop us expanding
- - More scripts
- - More ui expansions
- - New methods of authentication
- - More compatible games
+  - More scripts
+  - More ui expansions
+  - New methods of authentication
+  - More compatible games
 ### Banned?
 This may be because you are using an invalid or terminated DistID. You can use the script provided officialy here. 
 You may also be banned because of some illegal things you may do. Otherwise, 
