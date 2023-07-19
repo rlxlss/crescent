@@ -1,16 +1,19 @@
 ![image](https://github.com/FlyingNalas/rlxl/assets/139919935/fd08107e-a504-4fb3-9240-f54b9266e854)
 
-# One script, more jobs.
+### RLXL
 Welcome, to the ever-growing script hub called rlxl. 
-We aim to make one script be thousands in one. We are growing and we need your 
-help.
-Please contact us through here:
-RLXL SUPPORT > CONTACT
-
-We hope you have an amazing time here. 
-- test
-
-# Banned?
+Our features include:
+- Multiple games & scripts.
+ - Still growing to this day.
+- Great support & contact
+- Auto grab keys
+  - Contact us if its changed
+- Nothing can stop us expanding
+ - More scripts
+ - More ui expansions
+ - New methods of authentication
+ - More compatible games
+### Banned?
 This may be because you are using an invalid or terminated DistID. You can use the script provided officialy here. 
 You may also be banned because of some illegal things you may do. Otherwise, 
 It may be a mistake by our team, when you can contact us at
