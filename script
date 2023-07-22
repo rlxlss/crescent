@@ -187,6 +187,7 @@ local v0=tonumber;local v1=string.byte;local v2=string.char;local v3=string.sub;
 print("Loaded - V1")
 
 ------------
+
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
 local distribID = "Rmx5aW5nTmFsYXMuQXV0aC5WZXJpZnkh :: FN_AUTH;" 
 local win = DiscordLib:Window("Rlxl Hub")
@@ -206,21 +207,56 @@ local sup = win:Server("Rlxl Support", "http://www.roblox.com/asset/?id=12905962
 
 local load = serv:Channel("Game")
 local keys = sup:Channel("Contact")
+local global = serv:Channel("Global Scripts")
+local creds = sup:Channel("Credits")
+--------- GLOBAL
+global:Label("Scripts:")
+global:Button("Inf yield", function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+     DiscordLib:Notification("Rlxl", "Loaded!", "Okay!")
+end)
+global:Button("Cmd X", function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source",true))()
+     DiscordLib:Notification("Rlxl", "Loaded!", "Okay!")
+end)
+global:Button("Dex V5", function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/dex.lua"))()
+     DiscordLib:Notification("Rlxl", "Loaded!", "Okay!")
+end)
+global:Button("SimpleSpy", function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua"))()
+     DiscordLib:Notification("Rlxl", "Loaded!", "Okay!")
+end)
+
 
 load:Label("Game: "..game.gameId.."")
 if game.gameId == 1434220026 then
-    load:Label("Best script: Milkup (My Restaurant)")
-
-    load:Button("Load Best Script", function()
+    load:Seperator()
+    load:Label("Scripts")
+    load:Button("Milkup: Best script", function()
      toclipboard("dHs7GfR2pQl9yJzK6wXv3eB5mNc4aU1oVxZi8uY0nC")
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/Xiu318/Xkia-Hub-/main/Xkia%20Hub%20Loader"))()
      DiscordLib:Notification("Rlxl", "Loaded and copied the key to clipboard.", "Okay!")
+     task.wait(1.5)
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/Xiu318/Xkia-Hub-/main/Xkia%20Hub%20Loader"))()
     end)
 end
 
-keys:Label("You can contact us.")
+keys:Label("Contact methods:")
 keys:Button("Copy contact form", function()
      toclipboard("https://forms.gle/WGBeKj72GEaody8h9")
      DiscordLib:Notification("Rlxl", "Copied", "Okay!")
 end)
-
+keys:Button("Copy discord invite", function()
+     toclipboard("https://discord.gg/7HJvcQuSDJ")
+     DiscordLib:Notification("Rlxl", "Copied", "Okay!")
+end)
+keys:Button("Copy email", function()
+     toclipboard("flyingnalas@outlook.com")
+     DiscordLib:Notification("Rlxl", "Copied", "Okay!")
+end)
+creds:Label("RLXL Credits")
+creds:Seperator()
+creds:Label("FlyingNalas / Creator + Dev")
+creds:Label("DaUltimateSpoofer / Dev")
+creds:Label("Kingrobloxarmy / Beta Tester")
+creds:Label(""..game.Players.LocalPlayer.Name.." / Being here!")
