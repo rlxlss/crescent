@@ -183,7 +183,7 @@ local v0=tonumber;local v1=string.byte;local v2=string.char;local v3=string.sub;
 -- I cannot be fucking more annoyed that this lib cannot be obfusticated.
 -- Spaghetti code
 
-print("Loaded - V1")
+print("Loaded - V1.1")
 
 ------------
 
@@ -239,6 +239,41 @@ if game.gameId == 1434220026 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/Xiu318/Xkia-Hub-/main/Xkia%20Hub%20Loader"))()
     end)
 end
+if game.gameId == 111958650 then
+    load:Seperator()
+    load:Label("Scripts")
+    load:Button("Thunder Client: Best Script", function()
+     DiscordLib:Notification("Rlxl", "Loaded! (If there is a key it takes less than 2 minutes to get)", "Okay!")
+     task.wait(1.5)
+     loadstring(game:HttpGet("https://scriptblox.com/raw/Arsenal-Thunder-Client-11814"))()
+    end)
+end
+if game.gameId == 383310974 then
+    load:Seperator()
+    load:Label("Scripts")
+    load:Button("Prodigy X: Best Script", function()
+     DiscordLib:Notification("Rlxl", "Loaded! ", "Okay!")
+     task.wait(1.5)
+     loadstring(game:HttpGet('https://gitfront.io/r/ReQiuYTPL/wFUydaK74uGx/hub/raw/ReQiuYTPLHub.lua'))()
+    end)
+    load:Button("VG Hub: Second Best", function()
+     DiscordLib:Notification("Rlxl", "Loaded! ", "Okay!")
+     task.wait(1.5)
+     loadstring(game:HttpGet('https://gitfront.io/r/ReQiuYTPL/wFUydaK74uGx/hub/raw/ReQiuYTPLHub.lua'))()
+    end)
+    load:Button("Speed Hub X: Third Best", function()
+     DiscordLib:Notification("Rlxl", "Loaded! ", "Okay!")
+     task.wait(1.5)
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Script%20Game'))()
+    end)
+    load:Button("Icehub", function()
+     DiscordLib:Notification("Rlxl", "Loaded! ", "Okay!")
+     task.wait(1.5)
+     loadstring(game:HttpGet('https://icehub.cf/IceHubLoader'))()
+    end)
+    
+end
+
 
 keys:Label("Contact methods:")
 keys:Button("Copy contact form", function()
