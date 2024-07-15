@@ -1,7 +1,7 @@
 ![image](https://github.com/FlyingNalas/rlxl/assets/139919935/fd08107e-a504-4fb3-9240-f54b9266e854)
 
-### Feather
-Welcome, to the ever-growing script hub called feather. 
+### Rlxl
+Welcome, to the ever-growing script hub called rlxl. 
 Our features include:
 ---------------------
 
