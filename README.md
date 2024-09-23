@@ -1,12 +1,10 @@
 ![image](https://github.com/FlyingNalas/rlxl/assets/139919935/fd08107e-a504-4fb3-9240-f54b9266e854)
 
-# !! WE CONVINCE YOU TO GO TO RLXL ARCHIVES AND GO TO RLXL 1.0
-# https://github.com/rlxlss/rlxl.archives/blob/main/build1
 
 
 ### Rlxl
 Welcome, to the ever-growing script hub called rlxl. 
-Our features include:
+Features:
 ---------------------
 
 - Multiple games & scripts.
