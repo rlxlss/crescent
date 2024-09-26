@@ -6,7 +6,7 @@ Do understand that the scripts here are not scripted by me, the only ones copied
 This script is solara supported, I'm not sure about any other executors.
 Every issue of the script will have a discord invite at the top. Contact us if you need any support!
 
-## How to use:
+## How do I use RLXL?
 
 I'm not going to bother giving you step-by-step instructions on how to use an executor, you should probably know this by now. By any chance you don't. Remember that scripts are NOT applications. They are what you will see below, especially if they have a password attached to download them. 
 Note: Please, please do not try using the old scripts. They're bad and outdated.
