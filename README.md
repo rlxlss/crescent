@@ -1,22 +1,7 @@
-![image](https://github.com/FlyingNalas/rlxl/assets/139919935/fd08107e-a504-4fb3-9240-f54b9266e854)
+## Welcome to RLXL.
 
-
-
-### Rlxl
-Welcome, to the ever-growing script hub called rlxl. 
-Features:
----------------------
-
-- Multiple games & scripts.
-  - Still growing to this day.
-    
-- Great support & contact
-  
-  
-- Nothing can stop us expanding
-  - More scripts
-  - More ui expansions
-  - New methods of authentication
-  - More compatible games
-  
-![image](https://github.com/FlyingNalas/rlxl/assets/139919935/17afc66f-f18f-41b6-8632-b2224e6d1432)
+I have decided that the exploiting community on Roblox has been very lacklustre when trying to find the necessary and best scripts on the go.
+RLXL is here to fix that. It has a growing script database for Solara users. 
+Do understand that the scripts here are not scripted by me, the only ones copied here to RLXL assets are ones without loadstrings or on pastebin (they'll get deleted)
+This script is solara supported, I'm not sure about any other executors.
+Every issue of the script will have a discord invite at the top. Contact us if you need any support!
