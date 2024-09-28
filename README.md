@@ -13,3 +13,8 @@ Note: Please, please do not try using the old scripts. They're bad and outdated.
 
 **You can load RLXL by using:**
 ```loadstring(game:HttpGet("https://raw.githubusercontent.com/rlxlss/rlxl/refs/heads/main/script"))()```
+
+## Most recent update
+
+Added HITBOX EXPANDERS for arsenal!
+For more details, go to https://discord.gg/r3GP9xxR3T!
