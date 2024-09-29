@@ -28,4 +28,6 @@ Note: Please, please do not try using the old scripts. They're bad and outdated.
   - Coin farm
   - Rank farm
   - Sword farm
-  - Unlock all islands  
+  - Unlock all islands
+  - Belt farm
+
