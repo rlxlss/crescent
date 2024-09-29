@@ -19,5 +19,13 @@ Note: Please, please do not try using the old scripts. They're bad and outdated.
 
 ## Most recent update
 
-Added HITBOX EXPANDERS for arsenal!
-For more details, go to https://discord.gg/r3GP9xxR3T!
+- Legends of speed
+  - Auto farm speed
+  - Auto farm gems
+- Ninja Legends
+  - KOTH teleports
+  - All island teleports
+  - Coin farm
+  - Rank farm
+  - Sword farm
+  - Unlock all islands  
