@@ -15,7 +15,7 @@ I'm not going to bother giving you step-by-step instructions on how to use an ex
 Note: Please, please do not try using the old scripts. They're bad and outdated.
 
 **You can load RLXL by using:**
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/rlxlss/rlxl/refs/heads/main/script"))()```
+```getgenv().skibidi =   KEY = {   ["PreloadKey"] = "carrot"  } } loadstring(game:HttpGet("https://raw.githubusercontent.com/rlxlss/rlxl/refs/heads/main/script"))()``` 
 
 ## Most recent update
 
